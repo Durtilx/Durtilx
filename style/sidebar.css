@@ -1,0 +1,50 @@
+.sidebar{
+position: fixed;
+top: 55px;
+left: 0px;
+bottom: 0;
+background-color: white;
+width: 72px;
+z-index: 200;
+
+
+
+
+
+}
+.sidebuttons{
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+
+margin-bottom: 1px;
+
+}
+.sidebuttons:hover{
+background-color: rgb(238, 238, 238);
+cursor: pointer;
+
+
+}
+.sidebuttons img{
+
+height: 24px;
+
+
+
+
+}
+.sidebar div{
+display: flex;
+flex-direction: column;
+font-family: roboto,Arial;
+font-size: 10px;
+padding-top: 4px;
+
+
+}
+
+
